@@ -60,3 +60,9 @@ footer address:last-child {
     transform: translate(-50%, -50%);
     transition: 0.4s;
 }
+
+@media(min-width: 768px){
+    #paineis-sobre {
+        margin-top: 0;
+    }
+}
