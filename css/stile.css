@@ -54,4 +54,8 @@ footer address:last-child {
     padding: 20px;
     width: 70%;
     border-radius: 10px;
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
 }
